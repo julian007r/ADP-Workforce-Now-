@@ -33,7 +33,7 @@ To get started with Welcome to ADP, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/welcome-to-adp.git
+   git clone https://github.com/julian007r/welcome-to-adp.git
 2. **Navigate to the Project Directory**:
    ```bash
    cd welcome-to-adp
